@@ -1,0 +1,13 @@
+# Directories and files packaged by zip_submission.py
+
+required_directories:
+  - proj2_code       # your code and the run notebook
+  - data             # the input images provided with the project
+  - results          # every output image you generated
+
+required_files: []
+
+optional_directories: []
+
+optional_files:
+  - README.txt       # only if you added functions we need instructions to run

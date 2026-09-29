@@ -1,0 +1,13 @@
+name: proj2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - opencv
+  - pyyaml
+  - scipy
+  - pip
